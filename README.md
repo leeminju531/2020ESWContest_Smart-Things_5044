@@ -30,5 +30,13 @@ Code 파일에는 cow.py / cow.qrc / cow.iu / cow_rc.py / display.py 가 존재�
 * MsTimer2 라이브러리 : 아두이노에서 타이머 인터럽트를 사용하기 위한 라이브러리이다. 아두이노 공식 사이트에서 제공되는 라이브러리이지만, MEGA보드에서는 MsTimer2의 지원하고 있지 않아 라이브러리 헤더파일을 수정하여 추가해주었다.
 
 ### 알고리즘
-cows
+1. cows
 ![cow](https://user-images.githubusercontent.com/70446214/95673275-1c491c80-0be2-11eb-983a-d34f9e3f1ab1.png)
+2. Tower1,2,3,4
+![tower1234](https://user-images.githubusercontent.com/70446214/95673307-50bcd880-0be2-11eb-8571-8bd61dd1e45c.png)
+3. Tower5
+![tower5](https://user-images.githubusercontent.com/70446214/95673309-51556f00-0be2-11eb-8799-76f78fbde841.png)
+4. ScanningBoard
+![ScanningBoard](https://user-images.githubusercontent.com/70446214/95673312-52869c00-0be2-11eb-8ab4-226a23b8ec9c.png)
+5. PYQT & DRONE
+![pythonprocess](https://user-images.githubusercontent.com/70446214/95673313-53b7c900-0be2-11eb-8439-1907f8dbceaf.png)
