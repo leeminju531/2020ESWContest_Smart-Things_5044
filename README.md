@@ -39,7 +39,7 @@ https://youtu.be/fELvObNoA9s
 	
 6)PYQT 디스플레이 & 드론 - PyQt 폴더 안에는 이미지파일 / code / __pycache__ 파일이 존재하며, 이미지파일은 PYQT 디스플레이를 구성하기 위해 사용한 이미지파일들이 존재한다. Code 파일에는 cow.py / cow.qrc / cow.iu / cow_rc.py / display.py 가 존재한다. 앞의 4가지 파일은 미리 제작한 PYQT GUI를 제작하였으며, display.py 파일에서 이러한 파일을 import하여 드론과 같이 동작한다.
 
-7) 식생지수 - opencv_practice.py 파일
+7)식생지수 - opencv_practice.py 파일
 드론의 RGB 카메라의 영상을 통해 식생영역을 계산하는 파일 
 
 * AT_Queue 폴더 / cowlib 폴더 : 아두이노에서 사용되는 사용자 정의 라이브러리로서, 명령어를 저장하는 큐(AT_Queue) 와 cow의 정보를 저장하는 클래스가 선언 되어있는 파일이다. 이 두파일은 아두이노 라이브러리에 추가해야 한다. ( 일반적으로, 아두이노 라이브러리 경로는 C:/Program Files(x86) / Arduino / libraries 에 위치함)
