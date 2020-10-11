@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="cow">
+    <file>blackcow.png</file>
+    <file>bluecow.png</file>
+    <file>beacon.png</file>
+    <file>redcow.jpg</file>
+    <file>fence_e3.png</file>
+    <file>fence_ee.png</file>
+    <file>brush_3.png</file>
+    <file>fence.png</file>
+  </qresource>
+</RCC>
