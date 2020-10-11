@@ -41,6 +41,7 @@ https://youtu.be/fELvObNoA9s
 PyQt 폴더 안에는 이미지파일 / code / __pycache__ 파일이 존재하며, 이미지파일은 PYQT 디스플레이를 구성하기 위해 사용한 이미지파일들이 존재한다.
 Code 파일에는 cow.py / cow.qrc / cow.iu / cow_rc.py / display.py 가 존재한다. 앞의 4가지 파일은 미리 제작한 PYQT GUI를 제작하였으며, display.py 파일에서 이러한 파일을 import하여 드론과 같이 동작한다.
 
+
 7) 식생지수 - opencv_practice.py 파일
 드론의 RGB 카메라의 영상을 통해 식생영역을 계산하는 파일 
 
