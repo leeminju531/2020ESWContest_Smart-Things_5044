@@ -31,4 +31,4 @@ Code 파일에는 cow.py / cow.qrc / cow.iu / cow_rc.py / display.py 가 존재�
 
 ### 알고리즘
 cows
-
+![cow](https://user-images.githubusercontent.com/70446214/95673275-1c491c80-0be2-11eb-983a-d34f9e3f1ab1.png)
